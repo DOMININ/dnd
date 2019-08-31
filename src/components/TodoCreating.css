@@ -1,0 +1,20 @@
+.todo__item {
+  margin-bottom: 10px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  cursor: pointer;
+}
+
+.todo__item:last-child {
+  margin: 0;
+}
+
+.todo__item-id {
+  margin: 0;
+  color: red;
+}
+
+.todo__item-text {
+  margin: 0;
+}

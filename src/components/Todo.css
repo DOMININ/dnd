@@ -1,0 +1,8 @@
+.todo__list {
+  margin: 0 auto;
+  padding: 10px;
+  width: 300px;
+  text-align: center;
+  border-radius: 5px;
+  background-color: lightskyblue;
+}
